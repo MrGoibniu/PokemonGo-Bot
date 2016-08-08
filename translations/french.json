@@ -10,11 +10,11 @@
 	"botSettings": "Parametres du Bot",
 	"autoTransferDoublePokemon": "Transfert automatique des doublons",
 	"maxDupPokemon": "Max. de doublon Pokemon",
-	"maxCPtransfer": "Max. PC a transférer:",
-	"maxIVtransfer": "Max. IV a transférer:",
+	"maxCPtransfer": "Max. PC a transfÃ©rer:",
+	"maxIVtransfer": "Max. IV a transfÃ©rer:",
 	"telegramSettings": "Parametres du Telegram",
 	"infoline1": "Ce Bot est totalement gratuit et Open-Source! Ne l'acheter pas.",
-	"infoline2": "Si vous avez un probleme avec PokeGoBot en rapport avec Pokecrot, dites leur que le Bot a été volé.",
+	"infoline2": "Si vous avez un probleme avec PokeGoBot en rapport avec Pokecrot, dites leur que le Bot a Ã©tÃ© volÃ©.",
 	"maxPokeballs": "Max. Poke Ball:",
 	"maxGreatballs": "Max. Super Ball:",
 	"maxUltraballs": "Max. Hyper Ball:",
@@ -25,7 +25,7 @@
 	"maxSuperpotions":"Max. Super Potion:",
 	"maxHyperpotions":"Max. Hyper Potion:",
 	"maxToppotions": "Max. Potion Max:",
-	"maxRazzberrys": "Max. Baie Framby:"
+	"maxRazzberrys": "Max. Baie Framby:",
 	"totalCount": "Total:",
 	"pokemonNotToTransfer": "Pokemon - Ne pas transferer",
 	"selectAll": "Tout selectionner",
@@ -37,9 +37,9 @@
 	"germanPokemonNames": "Utiliser les noms allemands pour les Pokemons",
 	"useIncese": "Utiliser un encens toutes les 30min",
 	"evolvePokemonIfEnoughCandy": "Evoluer les Pokemons (si assez de bonbons)",
-	"enablePokemonListGUI": "Activer la liste GUI Pokémon",
-	"keepPokemonWhichCanBeEvolved": "Conserver les Pokemons pouvant évoluer"
-	"useLuckyEggIfNotRunning": "Utiliser un oeuf chance automatiquement (si aucun en cours)"
+	"enablePokemonListGUI": "Activer la liste GUI PokÃ©mon",
+	"keepPokemonWhichCanBeEvolved": "Conserver les Pokemons pouvant Ã©voluer",
+	"useLuckyEggIfNotRunning": "Utiliser un oeuf chance automatiquement (si aucun en cours)",
 	"autoIncubate": "Incubation Automatique",
-	"useBasicIncubators": "Utiliser les incubateurs infini"    
+	"useBasicIncubators": "Utiliser les incubateurs infini",    
 }
